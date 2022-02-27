@@ -1,1 +1,6 @@
-# pizza-app_MongoDB
+## pizza-app_MongoDB
+
+## Technology:
+
+- MongoDB
+- Mongoose
